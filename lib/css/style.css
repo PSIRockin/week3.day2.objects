@@ -80,3 +80,13 @@ header{
 /* START ADDING STUFF HERE! */
 
 
+#gridDiv{
+    display: grid;
+    grid-column-gap:10px;
+}
+
+.hero_container{
+    background-color: #f7931e;
+    border: 1px, solid, #00aeff;
+
+}
